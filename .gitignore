@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Generated files
+outputs/
+
+# Large datasets / media
+videos/
+dataTrain/
+
+# Model weights
+weights/
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

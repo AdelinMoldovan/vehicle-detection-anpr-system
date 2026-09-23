@@ -1,0 +1,9 @@
+numpy==1.26.4
+opencv-python==4.8.0.76
+supervision==0.20.0
+easyocr==1.7.2
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+ultralytics==8.4.25
+scipy==1.15.3
+pillow==12.1.1

@@ -1,0 +1,1 @@
+"""Combined vehicle detection, speed estimation and ANPR module."""
